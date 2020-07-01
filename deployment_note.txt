@@ -8,7 +8,7 @@
 
 #2. Change start script
 -----------------------------------
-"start": "next start -p $PORT",
+"start": "react-scripts start -p $PORT",
 
 
 #3. Change add this to the script
